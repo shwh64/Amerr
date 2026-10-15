@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Counter</string>
+    <string name="counter_title">METRIC COUNTER</string>
+    <string name="decrement_label">Decrement</string>
+    <string name="increment_label">Increment</string>
+    <string name="reset_label">Reset</string>
+    <string name="recent_activity">RECENT ACTIVITY</string>
+    <string name="empty_logs_text">No history recorded yet.\nTap + or - to log transactions.</string>
+</resources>

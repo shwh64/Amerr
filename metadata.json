@@ -1,0 +1,6 @@
+{
+  "name": "Counter",
+  "description": "An elegant, minimalist counter application with a luxury dark theme, tactile haptics, spring animations, and persistent count storage.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
